@@ -1,3 +1,20 @@
 h1{
     color: gray;
 }
+p{
+    color:black;
+    font-size: 20px;
+}
+button{
+    background-color: rgb(136, 115, 77);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#color system{
+    background-color: rgb(136, 115, 77);
+}
+#color system:hover{
+    background-color: rgb(115, 96, 64);
