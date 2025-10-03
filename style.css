@@ -10,7 +10,6 @@ button{
     background-color: rgb(136, 115, 77);
     color: rgb(192, 99, 99);
     padding: 10px;
-    border: none;
     border-radius: 5px;
     cursor: pointer;
 }
