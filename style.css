@@ -1,15 +1,4 @@
-h1{
-    color: gray;
-    background-color: salmon;
-}
-p{
-    color:black;
-    font-size: 20px;
-}
-button{
-    background-color: rgb(136, 115, 77);
-    color: rgb(192, 99, 99);
-    padding: 10px;
-    border-radius: 5px;
-    cursor: pointer;
+*{
+    font-color: white;
+    background-color: black;
 }
