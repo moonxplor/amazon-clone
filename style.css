@@ -1,11 +1,26 @@
-*{
+*{ margin:0;
+    border:border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-color: white;
     background-color: black;
 }
 .navbar{
     background-color: black;
+    color:white
     display: flex;
+    height: 50px;
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
+}
+.logo{
+    background-image: url("https://pngimg.com/uploads/amazon/amazon_PNG11.png");
+    height: 40px;
+    width: 100px;
+    background-size: contain;
+}
+.search-bar{
+    display: flex;
+    flex: 1;
+    margin: 0 10px;
 }
